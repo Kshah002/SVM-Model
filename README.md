@@ -1,1 +1,1 @@
-SVM model to classify images of Dogs and Cats
+SVM model to classify images of Animals
